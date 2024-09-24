@@ -1,0 +1,7 @@
+header {
+    color: white;
+    font: 200% "arial";
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+  }
