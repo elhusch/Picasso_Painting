@@ -1,0 +1,7 @@
+header {
+  color: white;
+  font: 400% "arial";
+  flex-wrap: wrap;
+  display: flex;
+  margin-left: 32%;
+}
